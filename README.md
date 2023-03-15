@@ -16,3 +16,5 @@ Grab credit card - cvv
 ![Image alt](https://github.com/Isid0r87/Ro3b-HTTP-botnet/blob/main/Ro3b-HTTP-botnet3.png)
 
 # You can thank me in the description in the app. My details will be provided
+
+# For donations 1ABfJbTt898v5vYAv1YuLknFenwn894G3L
